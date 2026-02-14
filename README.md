@@ -1,4 +1,4 @@
-# TechInventory-Insight 🛠️
+# TechInventory-Insight 
 
 A Python-based tool to manage and analyze IT assets using SQLite.
 
@@ -16,4 +16,5 @@ A Python-based tool to manage and analyze IT assets using SQLite.
 ## How to Run
 1. Clone the repo.
 2. Run `python main.py`.
+
 3. View the generated `inventory_report.png`.
